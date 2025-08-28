@@ -6,7 +6,7 @@ import HomePage from './pages/HomePage'
 
 const App = () => {
   return (
-    <div className="bg-[url('./src/assets/chatbg.avif')]  bg-contain ">
+    <div className="bg-[url('./src/assets/chatbg.avif')]   bg-cover">
       <Routes>
         <Route path='/' element={<HomePage />}/>
         <Route path='/login' element={<LoginPage />}/>
