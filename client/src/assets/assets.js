@@ -6,9 +6,11 @@ import profile_ravi2 from './profile_ravi2.jpg'
 import avatar_icon from './avatar_icon.png'
 import arrow_icon from './arrow_icon.png'
 import help_icon from './help_icon.png'
+import logo_icon from './App Messages.png'
 
 export const asset = {
-    
+    profile_ravi,
+    logo_icon,
     avatar_icon,
     arrow_icon,
     help_icon
@@ -19,35 +21,35 @@ export const userDummyData = [
     {
         "_id": "680f50aaf10f3cd28382ecf2",
         "email": "test1@greatstack.dev",
-        "fullName": "Alison Martin",
+        "fullName": "Raviteja Pilla",
         "profilePic":profile_ravi,
         "bio": "Hi Everyone, I am Using QuickChat",
     },
     {
         "_id": "680f50e4f10f3cd28382ecf9",
         "email": "test2@greatstack.dev",
-        "fullName": "Martin Johnson",
+        "fullName": "Bobby Manepalli",
         "profilePic": profile_bobby,
         "bio": "Hi Everyone, I am Using QuickChat",
     },
     {
         "_id": "680f510af10f3cd28382ed01",
         "email": "test3@greatstack.dev",
-        "fullName": "Enrique Martinez",
+        "fullName": "Ramesh Potnuru",
         "profilePic": profile_ramesh,
         "bio": "Hi Everyone, I am Using QuickChat",
     },
     {
         "_id": "680f5137f10f3cd28382ed10",
         "email": "test4@greatstack.dev",
-        "fullName": "Marco Jones",
+        "fullName": "Chaitu U",
         "profilePic": profile_chaitu,
         "bio": "Hi Everyone, I am Using QuickChat",
     },
     {
         "_id": "680f516cf10f3cd28382ed11",
         "email": "test5@greatstack.dev",
-        "fullName": "Richard Smith",
+        "fullName": "Ravi",
         "profilePic": profile_ravi2,
         "bio": "Hi Everyone, I am Using QuickChat",
     }
