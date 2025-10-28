@@ -6,7 +6,7 @@ import profile_ravi2 from './profile_ravi2.jpg'
 import avatar_icon from './avatar_icon.png'
 import arrow_icon from './arrow_icon.png'
 import help_icon from './help_icon.png'
-import logo_icon from './App Messages.png'
+import logo_icon from './app_messages.png'
 import img1 from './img1.jpg'
 import img2 from './img2.jpg'
 import gallery_icon from './gallery_icon.svg'
@@ -15,7 +15,7 @@ import pic1 from './pic1.png'
 import pic2 from './pic2.png'
 import pic3 from './pic3.png'
 import pic4 from './pic4.png'
-import App_Icon from './App Messages.png'
+import App_Icon from './app_messages.png'
 
 
 export const asset = {

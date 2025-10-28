@@ -1,5 +1,5 @@
 import React from 'react'
-import assets from '../assets/App Messages.png'
+import assets from '../assets/app_messages.png'
 import assets1 from '../assets/561184.png'
 import Search from '../assets/search.png'
 import { useNavigate } from 'react-router-dom'
